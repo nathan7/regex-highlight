@@ -1,0 +1,16 @@
+{
+  "name": "regex-highlight",
+  "repo": "nathan7/regex-highlight",
+  "description": "regex highlighting",
+  "version": "1.0.0",
+  "keywords": [
+    "regex",
+    "highlight"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

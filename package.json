@@ -1,0 +1,20 @@
+{
+  "name": "regex-highlight",
+  "version": "1.0.0",
+  "description": "regex highlighting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/regex-highlight.git"
+  },
+  "keywords": [
+    "regex",
+    "highlight"
+  ],
+  "author": "Steven Levithan",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
